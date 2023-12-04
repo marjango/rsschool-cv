@@ -1,1 +1,1 @@
-# rsschool-cv
+https://marjango.github.io/rsschool-cv/cv
